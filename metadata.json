@@ -1,0 +1,6 @@
+{
+  "name": "Dr.Fone Suite - Solution Mobile Complète",
+  "description": "Clone complet de Wondershare Dr.Fone: Gestionnaire de fichiers, Récupération de données, Transfert de téléphone, Déverrouillage d'écran, Réparation système, Transfert WhatsApp et Localisation virtuelle.",
+  "requestFramePermissions": ["usb", "display-capture", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
